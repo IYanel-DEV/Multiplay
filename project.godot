@@ -10,6 +10,10 @@ config_version=5
 
 [application]
 
-config/name="PluginTest"
+config/name="Multiplay"
 config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="res://icon.svg"
+
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/MTT/plugin.cfg", "res://addons/MultiPlay/plugin.cfg")
