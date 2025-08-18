@@ -33,7 +33,8 @@
 
 ## 📸 Screenshots
 
-*Coming soon - beautiful interface screenshots*
+<img width="599" height="489" alt="image" src="https://github.com/user-attachments/assets/cfc65f8e-5542-423a-8095-2a852183fb9e" />
+
 
 ## 🚀 Installation
 
