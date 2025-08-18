@@ -16,4 +16,4 @@ config/icon="res://icon.svg"
 
 [editor_plugins]
 
-enabled=PackedStringArray("res://addons/MTT/plugin.cfg", "res://addons/MultiPlay/plugin.cfg")
+enabled=PackedStringArray("res://addons/MultiPlay/plugin.cfg")

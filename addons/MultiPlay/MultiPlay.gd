@@ -8,7 +8,7 @@ var popup_panel
 func _enter_tree():
 	# Create the toolbar button
 	toolbar_button = Button.new()
-	toolbar_button.text = "🎮 MultiPlay"
+	toolbar_button.text = "🕹MultiPlay"
 	toolbar_button.icon = EditorInterface.get_editor_theme().get_icon("MultiNodeEdit", "EditorIcons")
 	toolbar_button.tooltip_text = "Open MultiPlayer Test Runner"
 	
